@@ -1,0 +1,19 @@
+{
+  "files.exclude": {
+    // "**/.*": true,
+    // "**/*.json": true,
+
+    ".env": true,
+    ".eslintrc.js": true,
+    ".gitignore": true,
+    ".prettierrc": true,
+    ".editorconfig": true,
+    // "jest.config.ts": true,
+    "dist": true,
+    "node_modules": true,
+    "nest-cli.json": true,
+    // "tsconfig.json": true,
+    "tsconfig.build.json": true,
+    "yarn.lock": true,
+  }
+}
